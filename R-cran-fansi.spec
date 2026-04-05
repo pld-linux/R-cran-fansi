@@ -3,7 +3,7 @@
 Summary:	ANSI control sequence aware string functions
 Name:		R-cran-%{modulename}
 Version:	1.0.7
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Math
 Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
